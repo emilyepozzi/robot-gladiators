@@ -1,8 +1,9 @@
 # Robot Gladiators!
 
 Using Javascript to create an engaging game between 2 players that have their robots fight to the death. 
-<hr>
-#### How the game plays:
+
+
+### How the game plays:
 The game will prompt the user to name their robot.
 
 The player's robot will be initialized with the following properties:
