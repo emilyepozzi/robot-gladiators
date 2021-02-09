@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Robot Gladiators!
 Javascript project
 
@@ -22,4 +23,7 @@ The game will prompt the user to name their robot.
 * Roborto will attack the player's robot, and Roberto's attack points will be deducted from the player's robot's health points.
 * The game will display the player robot's remaining health points.
 <br>
+=======
+
+>>>>>>> 900d6dee4d75b68da093b491a4d7c350fb8453f3
 
