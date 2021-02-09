@@ -37,7 +37,7 @@ The game will end.
 <hr>
 
 ### Game Link: 
-[Robot Gladiator](https://emilyepozzi.github.io/RefactorExample/ "Robot Gladiators")
+[Robot Gladiator](https://emilyepozzi.github.io/robot-gladiators/. "Robot Gladiators")
 
 
 
