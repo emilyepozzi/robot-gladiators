@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Robot Gladiators!
 
 Using Javascript to create an engaging game between 2 players that have their robots fight to the death. 
